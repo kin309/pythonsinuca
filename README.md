@@ -4,10 +4,10 @@ Jogo de sinuca feito em python utilizando a biblioteca pygame.
 Código baseado em outro jogo de sinuca feito em python.
 
 <p>
-Melhorias:
-Mudanças na interface
-Timer adicionado
-Correção de alguns bugs na física do jogo
+Melhorias: <br />
+Mudanças na interface <br />
+Timer adicionado <br />
+Correção de alguns bugs na física do jogo <br />
 </p>
 
 
