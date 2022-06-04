@@ -6,3 +6,6 @@ Jogo de sinuca feito em python utilizando a biblioteca pygame
 
 ## Tela do jogo
 ![tela_do_jogo](https://user-images.githubusercontent.com/30506992/172025472-544fb815-73bd-4b71-93af-a406feb00067.png)
+
+# GIF
+![sinuca](https://user-images.githubusercontent.com/30506992/172025775-f3103a30-0783-4c86-acfc-aa9527bd22b1.gif)
