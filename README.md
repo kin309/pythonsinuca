@@ -18,5 +18,3 @@ Correção de alguns bugs na física do jogo <br />
 # GIF
 ![sinuca](https://user-images.githubusercontent.com/30506992/172025775-f3103a30-0783-4c86-acfc-aa9527bd22b1.gif)
 
-Projeto base: https://code-projects.org/8-ball-pool-game-in-python-with-source-code/
-![Screenshot_5](https://user-images.githubusercontent.com/30506992/172026012-e152630a-8324-41de-bb6d-e6f265355c9f.png)
