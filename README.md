@@ -3,6 +3,8 @@ Jogo de sinuca feito em python utilizando a biblioteca pygame.
 
 Código baseado em outro jogo de sinuca feito em python.
 
+Projeto base: https://code-projects.org/8-ball-pool-game-in-python-with-source-code/
+
 ### Melhorias: <br />
 Mudanças na interface <br />
 Timer adicionado <br />
